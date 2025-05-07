@@ -23,6 +23,8 @@ bandera_carga = False
 
 import os
 
+saludar()
+
 while True:
     print("1.Cargar Usuarios\n2.Mostrar Usuarios\n3.Mostrar promedio sueldos\n4.Mostrar el empleado con el salario más alto (SOLO UNO)\n5.Salir")
     opcion = int(input("Su opcion: "))

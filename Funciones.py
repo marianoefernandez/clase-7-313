@@ -60,3 +60,5 @@ def mostrar_usuario(lista_nombres:list,lista_edades:list,lista_legajos:list,list
     print(f"Sueldo: $ {lista_sueldos[indice]}")
     print("")
     
+def saludar():
+    print("HOLA MUNDO")
